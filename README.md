@@ -3,16 +3,16 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Computer Science student with hands-on experience in full-stack development
-- 💼 Background in building real-world applications with **.NET Core**
-- 🌱 Currently leveling up with **Angular** to become a complete Fullstack developer
-- 🚀 Open to Junior / Mid-level **.NET** or **Fullstack** roles
+-  Computer Science student with hands-on experience in full-stack development
+-  Background in building real-world applications with **.NET Core**
+-  Currently leveling up with **Angular** to become a complete Fullstack developer
+-  Open to Junior / Mid-level **.NET** or **Fullstack** roles
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Backend:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
