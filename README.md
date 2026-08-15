@@ -1,6 +1,8 @@
 # Hi there, I'm Tarek Mohamed
 
-![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=.NET+Backend+Developer;CS+Student+%40+Benha+University;Building+Real-World+Backend+Systems!)](https://git.io/typing-svg)
 
@@ -65,3 +67,4 @@ Always learning, always building.
 ---
 
 > "Keep it simple, then make it powerful."
+> 
