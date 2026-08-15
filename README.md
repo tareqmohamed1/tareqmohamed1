@@ -1,5 +1,7 @@
 # Hi there, I'm Tarek Mohamed
 
+![Coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=.NET+Backend+Developer;CS+Student+%40+Benha+University;Building+Real-World+Backend+Systems!)](https://git.io/typing-svg)
 
 ---
@@ -9,8 +11,7 @@
 - Computer Science student at Benha University — Faculty of Computers & Artificial Intelligence
 - .NET Backend Developer
 - Teaching Assistant / Instructor — C#, SQL Server, ASP.NET Core MVC, LINQ
-- Currently building a smart student platform API (ASP.NET Core, EF Core, JWT, SQL Server) as my graduation project
-- Working on Chemistry Platform — a fullstack web app with ASP.NET Core Web API backend
+- Built Chemistry Platform — a fullstack web app with ASP.NET Core Web API backend
 - Interested in Algorithms & Problem Solving
 - Open to Junior / Mid-level .NET Backend roles
 
