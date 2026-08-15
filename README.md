@@ -1,40 +1,62 @@
-<h1 align="center">Hi, I'm Tarek Mohamed 👋</h1>
-<h3 align="center">.NET Core & Angular Developer | CS Student | Cairo, Egypt</h3>
+# Hi there, I'm Tarek Mohamed 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=.NET+Core+%26+Angular+Developer;CS+Student+%40+Benha+University;Building+Real-World+Fullstack+Apps!)](https://git.io/typing-svg)
 
 ---
 
-###  About Me
+## 🧑‍💻 About Me
 
--  Computer Science student with hands-on experience in full-stack development
--  Background in building real-world applications with **.NET Core**
--  Currently leveling up with **Angular** to become a complete Fullstack developer
--  Open to Junior / Mid-level **.NET** or **Fullstack** roles
-
----
-
-###  Tech Stack
-
-**Backend:**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-**Frontend:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-**Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+- 🎓 Computer Science student at Benha University — Faculty of Computers & Artificial Intelligence
+- 💻 .NET Core & Angular Fullstack Developer
+- 🧑‍🏫 Teaching Assistant / Instructor — C#, SQL Server, ASP.NET Core MVC, LINQ
+- 🚀 Currently building a smart student platform API (ASP.NET Core, EF Core, JWT, SQL Server) as my graduation project
+- 🌱 Working on **Chemistry Platform** — a fullstack web app with ASP.NET Core Web API backend
+- 🎯 Open to Junior / Mid-level .NET or Fullstack roles
 
 ---
 
-###  Connect with Me
+## 🚀 Tech Stack
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+### 🧑‍💻 Programming Languages
+[![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://github.com/tareqmohamed1)
+
+### 🌐 Web Basics
+[![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://github.com/tareqmohamed1)
+
+### 🛠 Backend (.NET)
+[![](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)](https://github.com/tareqmohamed1)
+
+### 🗄 Databases
+[![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://github.com/tareqmohamed1)
+
+---
+
+## 🛠️ Tools
+
+[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/tareqmohamed1) [![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tareqmohamed1)
+
+---
+
+## 📈 GitHub Stats
+
+[![](https://github-readme-stats.vercel.app/api?username=tareqmohamed1&show_icons=true&theme=react&custom_title=Tarek%20Mohamed%27s%20GitHub%20Stats)](https://github.com/tareqmohamed1)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tareqmohamed1&layout=compact&theme=react)](https://github.com/tareqmohamed1)
+
+📊 Always learning, always building.
+
+---
+
+## 🐍 Contribution Snake
+
+[![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📬 Contact & Social
+
+- **Email:** tarekmohamed09e4@gmail.com
+- **LinkedIn:** [Tarek Mohamed](https://www.linkedin.com/in/tarek-mohamed-3127522b0)
+
+---
+
+> **"Keep it simple, then make it powerful."**
