@@ -13,7 +13,7 @@
 - Computer Science student at Benha University — Faculty of Computers & Artificial Intelligence
 - .NET Backend Developer
 - Teaching Assistant / Instructor — C#, SQL Server, ASP.NET Core MVC, LINQ
-- Built Chemistry Platform — a fullstack web app with ASP.NET Core Web API backend
+- Currently learning C# & building real-world projects
 - Interested in Algorithms & Problem Solving
 - Open to Junior / Mid-level .NET Backend roles
 
